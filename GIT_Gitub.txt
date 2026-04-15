@@ -1,0 +1,15 @@
+git status
+
+git config --global user.email "rewatkaramit1@gmail.com" 
+git config --global user.name "Amit" 
+
+ git init    
+
+git add .--------------------------ALL FILES ADDED 
+git commit -m "inital commit" 
+
+.gitignore-------------for ingnoreing the files .
+
+
+
+.getkeep-----------------for blank folder keep it 
